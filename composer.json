@@ -1,9 +1,13 @@
 {
-  "name": "lucassilvavi/son-framework",
+  "name": "Levy MicroFramework",
   "authors": [
     {
-      "name": "lucas.vieira",
-      "email": "lucas.vieira@terceirizado.mds.gov.br"
+      "name": "Lucas Vieira",
+      "email": "lucas.vieira789@hotmail.com"
+    },
+    {
+      "name": "Gleuton Dutra",
+      "email": "gleuton.dutra@gmail.com"
     }
   ],
   "require": {
@@ -13,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "SON\\Framework\\": "src",
+      "Levy\\Framework\\": "src",
       "App\\": "app"
     }
   },
