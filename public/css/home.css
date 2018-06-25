@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+.container .logo{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+.welcome {
+    color: #999999;
+    font: 60px arial, sans-serif;
+    font-weight: bold;
+}
+

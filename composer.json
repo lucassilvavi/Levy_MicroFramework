@@ -1,0 +1,26 @@
+{
+  "name": "lucassilvavi/son-framework",
+  "authors": [
+    {
+      "name": "lucas.vieira",
+      "email": "lucas.vieira@terceirizado.mds.gov.br"
+    }
+  ],
+  "require": {
+    "bramus/router": "~1.3",
+    "duncan3dc/blade": "^4.1",
+    "illuminate/database": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "SON\\Framework\\": "src",
+      "App\\": "app"
+    }
+  },
+  "scripts": {
+    "server": "php -S localhost:8080 -t public"
+  },
+  "config": {
+    "process-timeout": 0
+  }
+}
