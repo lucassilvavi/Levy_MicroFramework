@@ -1,5 +1,10 @@
 {
   "name": "lucassilvavi/levy-micro-framework",
+  "version": "1.0",
+  "description": "The Levy Mirco-Framework.",
+  "keywords": ["framework", "levy"],
+  "license": "MIT",
+  "type": "project",
   "authors": [
     {
       "name": "Lucas Vieira",
