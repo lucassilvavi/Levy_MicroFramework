@@ -4,4 +4,4 @@
 
 #composer
 composer.lock
-.idea/
+.idea/*
