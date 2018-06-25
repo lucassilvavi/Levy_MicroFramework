@@ -1,0 +1,7 @@
+
+#dependency
+/vendor
+
+#composer
+/composer.lock
+.idea/inspectionProfiles/
