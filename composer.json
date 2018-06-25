@@ -1,5 +1,6 @@
 {
   "name": "lucassilvavi/levy-micro-framework",
+  "minimum-stability": "1.0.*",
   "authors": [
     {
       "name": "Lucas Vieira",
