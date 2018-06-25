@@ -1,6 +1,5 @@
 {
   "name": "lucassilvavi/levy-micro-framework",
-  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Lucas Vieira",
@@ -27,5 +26,11 @@
   },
   "config": {
     "process-timeout": 0
-  }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  },
+  "minimum-stability": "dev"
 }
